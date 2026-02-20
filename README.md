@@ -1,7 +1,7 @@
 # Ridex-Rental-Car
 
 ## Output
-https://github.com/user-attachments/assets/1de91db4-9990-41c5-be29-dd8aea6fbd04
+https://github.com/user-attachments/assets/72691fbe-72c6-44e5-8ada-13da5dd415e1
 
 ---
 
